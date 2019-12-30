@@ -1,0 +1,7 @@
+mongo:
+  host: localhost
+  port: 27107
+  database: knockbackpvp
+  auth:
+    user: user
+    password: passw0rd

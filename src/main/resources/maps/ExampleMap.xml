@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gameMap>
+    <mapName>Example</mapName>
+    <!-- Optional parameter -->
+    <displayMapName>&amp;6Example</displayMapName>
+
+    <world name="ExampleWorld" highLimit="89" lowLimit="0">
+        <spawnLocation>
+            <x>0</x>
+            <y>90</y>
+            <z>0</z>
+        </spawnLocation>
+    </world>
+
+    <!-- Optional parameter -->
+    <mapBuilders>
+        <builder>Ggamer55</builder>
+    </mapBuilders>
+</gameMap>

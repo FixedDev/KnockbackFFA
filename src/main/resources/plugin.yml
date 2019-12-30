@@ -1,0 +1,5 @@
+name: KnockbackPvpPlugin
+version: @version@
+main: net.minebukket.knockbackpvp.KnockbackPvpPlugin
+authors: [Ggamer55]
+depends: [InventoryUtils]
